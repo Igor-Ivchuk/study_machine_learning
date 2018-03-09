@@ -1,4 +1,4 @@
-###Hints
+### Hints
 To list all the available style sheets:
 
 ```
